@@ -1,0 +1,5 @@
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn/bin/Debug/LogAn.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn/bin/Debug/LogAn.pdb
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn/obj/Debug/LogAn.csproj.CoreCompileInputs.cache
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn/obj/Debug/LogAn.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn/obj/Debug/LogAn.pdb

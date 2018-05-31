@@ -1,0 +1,10 @@
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/LogAn.UnitTests.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/LogAn.UnitTests.pdb
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/LogAn.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/nunit.framework.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/LogAn.pdb
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/bin/Debug/nunit.framework.xml
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/obj/Debug/LogAn.UnitTests.csprojResolveAssemblyReference.cache
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/obj/Debug/LogAn.UnitTests.csproj.CoreCompileInputs.cache
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/obj/Debug/LogAn.UnitTests.dll
+/Users/ponson/Projects/aout2/ArtOfUnitTesting2ndEd.Samples/LogAn.UnitTests/obj/Debug/LogAn.UnitTests.pdb
